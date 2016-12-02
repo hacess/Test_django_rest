@@ -1,1 +1,1 @@
-# Test_django_rest
+#Send json data 
